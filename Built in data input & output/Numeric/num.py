@@ -1,0 +1,13 @@
+#Numeric data
+a = 11
+b = 69
+
+print(a+b*4)
+print((a+b)*4)
+print(a**10)
+print(a/3)
+print(a//b)
+print(a%b)
+print(a/b)
+print(a%b)
+print(b**100)
